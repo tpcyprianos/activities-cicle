@@ -1,2 +1,2 @@
 # activities-cicle
-Códigos com ciclo de atividades de programação.
+Codes of programming activities.
